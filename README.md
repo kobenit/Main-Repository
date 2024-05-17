@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @kobenit
+- 👋 Hello, I’m Evelyn or Karol.
 - 👀 I’m interested in turn me into a dev!
-- 🌱 I’m currently learning JS, HTML and CSS.
+- 🌱 I’m currently learning JS, HTML and CSS, just the basics of the basics.
+- 📚 My level of English is intermediate.
 - 📫 How to reach me: kalliequii@gmail.com
 
 <!---
